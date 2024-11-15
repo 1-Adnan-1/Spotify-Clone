@@ -11,3 +11,7 @@ This is a Spotify clone built using HTML, CSS, and JavaScript. The app allows us
 - HTML5 : To structure the web page.
 - CSS3 : For style and responsive design.
 - JavaScript : To manage song search, playback functionality.
+
+Below is the screenshot
+
+![Zight Recording 2024-11-15 at 09 37 55 AM (1)](https://github.com/user-attachments/assets/accd967c-15f9-457f-a279-166879793ffd)
